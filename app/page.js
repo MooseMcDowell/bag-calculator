@@ -1,3 +1,5 @@
+'use client';
+
 // BagCalculator.jsx - Main Component File
 import React, { useState } from 'react';
 import { Calculator } from 'lucide-react';
